@@ -1,2 +1,3 @@
 primera linea de github2.txt
 segunda linea añadida en local
+segunda linea añadida de github2.txt desde github
